@@ -214,12 +214,13 @@ class AdminScreen extends StatelessWidget {
           const SizedBox(
             height: 16,
           ),
-          FloatingActionButton(
-            onPressed: () {
-              
-            },
-            child: const Text('User'),
-          ),
+          // FloatingActionButton(
+          //   onPressed: () {
+          //     Navigator.push(context, MaterialPageRoute(builder: (context)=> UserEditScreen()),
+          //     );
+          //   },
+          //   child: const Text('User'),
+          // ),
         ],
       ),
     );

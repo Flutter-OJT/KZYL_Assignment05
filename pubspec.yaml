@@ -39,7 +39,6 @@ dependencies:
   flutter_secure_storage: ^8.0.0
   sqflite: ^2.2.8+4
   crypto: ^3.0.3
-  encrypt: ^5.0.1
 
 dev_dependencies:
   flutter_test:

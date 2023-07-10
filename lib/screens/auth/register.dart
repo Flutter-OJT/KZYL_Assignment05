@@ -107,19 +107,6 @@ class RegistrationScreen extends GetView<LoginService> {
                   const SizedBox(
                     height: 16,
                   ),
-                  // TextFormField(
-                  //   controller: _roleController,
-                  //   keyboardType: TextInputType.visiblePassword,
-                  //   decoration: const InputDecoration(
-                  //     label: Text('user or admin'),
-                  //   ),
-                  //   validator: (value) {
-                  //     if (value == null || value.isEmpty) {
-                  //       return 'Role cannot be empty!!';
-                  //     }
-                  //     return null;
-                  //   },
-                  // ),
                   const SizedBox(
                     height: 16,
                   ),
